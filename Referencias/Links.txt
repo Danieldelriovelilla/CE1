@@ -1,0 +1,6 @@
+ECE3SAT: 	http://www.ece3sat.com/
+
+BEE SAT: 	https://eoportal.org/web/eoportal/satellite-missions/b/beesat-1
+		https://earth.esa.int/web/eoportal/satellite-missions/b/beesat-2-3
+
+Potencia: 	https://brownspace.org/power/

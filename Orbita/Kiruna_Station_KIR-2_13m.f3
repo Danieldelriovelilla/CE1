@@ -1,0 +1,13 @@
+VO_v90
+	AzElMaskTranslucency            0.004
+	AzElMaskLineTransparency        0.008
+	AzElMaskLineThickness           1.0
+	AzElMaskAtRangeTranslucency     0.8
+	AzElMaskAtRangeLineThickness    1.0
+	AzElMaskAtRangeLineTransparency 0.0
+	AzElMaskLabelCompassShow        No
+	AzElMaskLabelAltShow            No
+	AzElMaskNumAltLabels            20
+	AzElMaskLabelUnits              4
+	AzElMaskLabelDecDigits          3
+	AzElMaskLblSwapDist             -2.5
